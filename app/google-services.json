@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362890626263",
+    "project_id": "movilesa20262-dd9e1",
+    "storage_bucket": "movilesa20262-dd9e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362890626263:android:104a3f7db52d1e1f2a9c92",
+        "android_client_info": {
+          "package_name": "com.example.movilesa20262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MxV7OS6UBkIVSvCMhMJzVEatm-HrBKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
